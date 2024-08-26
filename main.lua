@@ -1,6 +1,3 @@
--- create a new roblox place, create a new script and insert it in "ServerScriptService", test the game, then look in console
--- remember to enable "Allow HTTP Requests" in game settings
-
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 
